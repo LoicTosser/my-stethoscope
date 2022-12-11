@@ -1,0 +1,38 @@
+[
+  {
+    "Rank": 1,
+    "Time Spent (seconds)": 454,
+    "Number of People": 1,
+    "Category": "Entertainment"
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 218,
+    "Number of People": 1,
+    "Category": "Uncategorized"
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 32,
+    "Number of People": 1,
+    "Category": "Focus Work"
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 31,
+    "Number of People": 1,
+    "Category": "Utilities"
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 20,
+    "Number of People": 1,
+    "Category": "Software Development"
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 15,
+    "Number of People": 1,
+    "Category": "Reference & Learning"
+  }
+]

@@ -1,0 +1,41 @@
+{
+  "2022-12-4": {},
+  "2022-12-5": {},
+  "2022-12-6": {},
+  "2022-12-7": {
+    "Entertainment": 454,
+    "Uncategorized": 218,
+    "Focus Work": 32,
+    "Utilities": 31,
+    "Software Development": 20,
+    "Reference & Learning": 15
+  },
+  "2022-12-8": {
+    "Focus Work": 6343,
+    "Communication & Scheduling": 1153,
+    "Uncategorized": 1110,
+    "Business": 429,
+    "Software Development": 415,
+    "Utilities": 222,
+    "Shopping": 143,
+    "Entertainment": 121,
+    "News & Opinion": 72,
+    "Reference & Learning": 50,
+    "Design & Composition": 42,
+    "Social Networking": 40
+  },
+  "2022-12-9": {
+    "Focus Work": 6831,
+    "Software Development": 4676,
+    "Communication & Scheduling": 4044,
+    "Uncategorized": 1297,
+    "Social Networking": 1108,
+    "Entertainment": 743,
+    "Shopping": 677,
+    "Business": 652,
+    "News & Opinion": 556,
+    "Reference & Learning": 296,
+    "Utilities": 198
+  },
+  "2022-12-10": {}
+}

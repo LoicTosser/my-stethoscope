@@ -1,0 +1,36 @@
+{
+  "top-categories": {
+    "days": {
+      "2022": [
+        "12.json"
+      ]
+    },
+    "months": [
+      "2022.json"
+    ],
+    "weeks": {
+      "2022": [
+        "50.json",
+        "51.json"
+      ]
+    },
+    "years": "years.json"
+  },
+  "top-overview": {
+    "days": {
+      "2022": [
+        "12.json"
+      ]
+    },
+    "months": [
+      "2022.json"
+    ],
+    "weeks": {
+      "2022": [
+        "50.json",
+        "51.json"
+      ]
+    },
+    "years": "years.json"
+  }
+}
