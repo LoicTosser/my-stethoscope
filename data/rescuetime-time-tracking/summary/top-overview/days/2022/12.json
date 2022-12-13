@@ -42,13 +42,25 @@
   },
   "10": {},
   "11": {
-    "Focus Work": 4490,
+    "Focus Work": 4600,
     "Software Development": 1464,
     "Social Networking": 299,
     "Utilities": 24,
     "Communication & Scheduling": 18
   },
-  "12": {},
+  "12": {
+    "Focus Work": 12417,
+    "Software Development": 8516,
+    "Shopping": 3154,
+    "Communication & Scheduling": 2324,
+    "Social Networking": 1296,
+    "Reference & Learning": 1009,
+    "Uncategorized": 853,
+    "Business": 762,
+    "Utilities": 678,
+    "News & Opinion": 42,
+    "Design & Composition": 42
+  },
   "13": {},
   "14": {},
   "15": {},
