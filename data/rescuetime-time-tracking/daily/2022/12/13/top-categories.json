@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 5588,
+    "Time Spent (seconds)": 5608,
     "Number of People": 1,
     "Category": "General Focus Work"
   },
@@ -19,7 +19,7 @@
   },
   {
     "Rank": 4,
-    "Time Spent (seconds)": 1270,
+    "Time Spent (seconds)": 1098,
     "Number of People": 1,
     "Category": "Email"
   },
@@ -45,7 +45,7 @@
     "Rank": 8,
     "Time Spent (seconds)": 531,
     "Number of People": 1,
-    "Category": "Professional Networking"
+    "Category": "General Personal"
   },
   {
     "Rank": 9,
@@ -67,45 +67,45 @@
   },
   {
     "Rank": 12,
+    "Time Spent (seconds)": 204,
+    "Number of People": 1,
+    "Category": "Communications"
+  },
+  {
+    "Rank": 13,
     "Time Spent (seconds)": 194,
     "Number of People": 1,
     "Category": "General News & Opinion"
   },
   {
-    "Rank": 13,
+    "Rank": 14,
     "Time Spent (seconds)": 182,
     "Number of People": 1,
     "Category": "Project Management"
   },
   {
-    "Rank": 14,
+    "Rank": 15,
     "Time Spent (seconds)": 158,
     "Number of People": 1,
     "Category": "General Entertainment"
   },
   {
-    "Rank": 15,
+    "Rank": 16,
     "Time Spent (seconds)": 155,
     "Number of People": 1,
     "Category": "General Software Development"
   },
   {
-    "Rank": 16,
+    "Rank": 17,
     "Time Spent (seconds)": 150,
     "Number of People": 1,
     "Category": "Employment"
   },
   {
-    "Rank": 17,
+    "Rank": 18,
     "Time Spent (seconds)": 117,
     "Number of People": 1,
     "Category": "Search"
-  },
-  {
-    "Rank": 18,
-    "Time Spent (seconds)": 107,
-    "Number of People": 1,
-    "Category": "Uncategorized"
   },
   {
     "Rank": 19,
@@ -121,21 +121,21 @@
   },
   {
     "Rank": 21,
+    "Time Spent (seconds)": 87,
+    "Number of People": 1,
+    "Category": "Uncategorized"
+  },
+  {
+    "Rank": 22,
     "Time Spent (seconds)": 74,
     "Number of People": 1,
     "Category": "Instant Message"
   },
   {
-    "Rank": 22,
+    "Rank": 23,
     "Time Spent (seconds)": 39,
     "Number of People": 1,
     "Category": "Music"
-  },
-  {
-    "Rank": 23,
-    "Time Spent (seconds)": 32,
-    "Number of People": 1,
-    "Category": "Voice Chat"
   },
   {
     "Rank": 24,
