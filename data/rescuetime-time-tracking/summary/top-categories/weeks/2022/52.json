@@ -30,8 +30,8 @@
     "Intelligence": 25,
     "Clothes & Personal": 21,
     "Instant Message": 20,
-    "General Shopping": 14,
-    "General Utilities": 14
+    "General Utilities": 14,
+    "General Shopping": 14
   },
   "2022-12-20": {
     "Communications": 3874,
@@ -58,7 +58,30 @@
     "Graphic Design": 19,
     "Office": 13
   },
-  "2022-12-21": {},
+  "2022-12-21": {
+    "Editing & IDEs": 4601,
+    "Writing": 2931,
+    "Communications": 1903,
+    "Meetings": 1269,
+    "General Social Networking": 1236,
+    "Email": 1116,
+    "General News & Opinion": 769,
+    "General Software Development": 734,
+    "Presentation": 721,
+    "Uncategorized": 645,
+    "General Personal": 470,
+    "General Business": 328,
+    "Search": 238,
+    "General Reference & Learning": 164,
+    "Browsers": 138,
+    "General Focus Work": 119,
+    "Calendars": 118,
+    "Clothes & Personal": 103,
+    "Administration": 86,
+    "General Other Work": 17,
+    "Internet Utilities": 14,
+    "Intelligence": 5
+  },
   "2022-12-22": {},
   "2022-12-23": {},
   "2022-12-24": {}
