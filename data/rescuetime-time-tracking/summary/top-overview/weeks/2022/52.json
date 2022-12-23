@@ -40,7 +40,7 @@
   "2022-12-21": {
     "Software Development": 5335,
     "Design & Composition": 3652,
-    "Communication & Scheduling": 2503,
+    "Communication & Scheduling": 2685,
     "Other Work": 1647,
     "Social Networking": 1236,
     "News & Opinion": 769,
@@ -52,7 +52,21 @@
     "Focus Work": 119,
     "Shopping": 103
   },
-  "2022-12-22": {},
+  "2022-12-22": {
+    "Design & Composition": 5811,
+    "Software Development": 4691,
+    "Business": 2780,
+    "Communication & Scheduling": 2726,
+    "Other Work": 2664,
+    "Utilities": 1509,
+    "Uncategorized": 1325,
+    "Reference & Learning": 381,
+    "Personal": 345,
+    "Social Networking": 262,
+    "News & Opinion": 207,
+    "Focus Work": 128,
+    "Shopping": 25
+  },
   "2022-12-23": {},
   "2022-12-24": {}
 }
