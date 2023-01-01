@@ -1,18 +1,19 @@
 {
   "2022": {
     "Entertainment": 2500,
-    "Uncategorized": 15527,
-    "Focus Work": 34302,
-    "Utilities": 10235,
+    "Uncategorized": 15623,
+    "Focus Work": 34351,
+    "Utilities": 10268,
     "Software Development": 64409,
-    "Reference & Learning": 7022,
-    "Communication & Scheduling": 35380,
+    "Reference & Learning": 7023,
+    "Communication & Scheduling": 35409,
     "Business": 12762,
     "Shopping": 6445,
     "News & Opinion": 2841,
-    "Design & Composition": 17874,
+    "Design & Composition": 17880,
     "Social Networking": 6296,
     "Personal": 8824,
-    "Other Work": 24504
-  }
+    "Other Work": 24520
+  },
+  "2023": {}
 }

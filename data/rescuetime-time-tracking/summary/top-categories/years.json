@@ -1,20 +1,20 @@
 {
   "2022": {
     "Music": 1340,
-    "Uncategorized": 15527,
-    "General Focus Work": 29977,
-    "Browsers": 2983,
+    "Uncategorized": 15623,
+    "General Focus Work": 30026,
+    "Browsers": 2986,
     "General Software Development": 16717,
-    "Search": 4763,
+    "Search": 4764,
     "Communications": 31156,
-    "Email": 11568,
+    "Email": 11595,
     "Project Management": 960,
     "Editing & IDEs": 45116,
     "Calendars": 5346,
-    "General Utilities": 3540,
+    "General Utilities": 3570,
     "General Shopping": 3372,
     "General News & Opinion": 2775,
-    "Writing": 15814,
+    "Writing": 15820,
     "Marketing": 261,
     "Professional Networking": 482,
     "Voice Chat": 53,
@@ -27,10 +27,10 @@
     "Intelligence": 2134,
     "Legal & Gov't": 196,
     "Internet Utilities": 3712,
-    "General Communication & Scheduling": 52,
+    "General Communication & Scheduling": 54,
     "General Personal": 4479,
     "Systems Operations": 2576,
-    "General Other Work": 2018,
+    "General Other Work": 2034,
     "Office": 325,
     "Electronics": 23,
     "Engineering & Technology": 523,
@@ -43,5 +43,6 @@
     "Accounting": 3,
     "Presentation": 2041,
     "Graphic Design": 19
-  }
+  },
+  "2023": {}
 }

@@ -3,16 +3,21 @@
     "days": {
       "2022": [
         "12.json"
+      ],
+      "2023": [
+        "01.json"
       ]
     },
     "months": [
-      "2022.json"
+      "2022.json",
+      "2023.json"
     ],
     "weeks": {
       "2022": [
         "50.json",
         "51.json",
-        "52.json"
+        "52.json",
+        "53.json"
       ]
     },
     "years": "years.json"
@@ -21,16 +26,21 @@
     "days": {
       "2022": [
         "12.json"
+      ],
+      "2023": [
+        "01.json"
       ]
     },
     "months": [
-      "2022.json"
+      "2022.json",
+      "2023.json"
     ],
     "weeks": {
       "2022": [
         "50.json",
         "51.json",
-        "52.json"
+        "52.json",
+        "53.json"
       ]
     },
     "years": "years.json"
