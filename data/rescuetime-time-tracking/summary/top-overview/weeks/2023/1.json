@@ -16,7 +16,22 @@
     "News & Opinion": 339,
     "Social Networking": 292
   },
-  "2023-01-3": {},
+  "2023-01-3": {
+    "Business": 4322,
+    "Communication & Scheduling": 3769,
+    "Other Work": 2884,
+    "Social Networking": 1403,
+    "Software Development": 1313,
+    "Personal": 1222,
+    "Uncategorized": 1108,
+    "News & Opinion": 684,
+    "Design & Composition": 631,
+    "Utilities": 609,
+    "Reference & Learning": 351,
+    "Entertainment": 264,
+    "Shopping": 213,
+    "Focus Work": 59
+  },
   "2023-01-4": {},
   "2023-01-5": {},
   "2023-01-6": {},
