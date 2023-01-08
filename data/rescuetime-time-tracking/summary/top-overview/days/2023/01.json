@@ -80,7 +80,15 @@
     "Entertainment": 1,
     "Design & Composition": 1
   },
-  "7": {},
+  "7": {
+    "Business": 252,
+    "Uncategorized": 181,
+    "Utilities": 138,
+    "Communication & Scheduling": 47,
+    "Focus Work": 22,
+    "Software Development": 12,
+    "Other Work": 6
+  },
   "8": {},
   "9": {},
   "10": {},

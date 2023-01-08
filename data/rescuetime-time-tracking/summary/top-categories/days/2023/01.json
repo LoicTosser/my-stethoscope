@@ -143,7 +143,18 @@
     "Photos": 1,
     "Writing": 1
   },
-  "7": {},
+  "7": {
+    "Administration": 248,
+    "Uncategorized": 181,
+    "General Utilities": 74,
+    "Browsers": 64,
+    "Instant Message": 44,
+    "General Focus Work": 22,
+    "Editing & IDEs": 12,
+    "General Other Work": 6,
+    "General Business": 4,
+    "Email": 3
+  },
   "8": {},
   "9": {},
   "10": {},
