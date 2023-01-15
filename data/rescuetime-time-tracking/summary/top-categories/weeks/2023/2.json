@@ -78,8 +78,8 @@
     "General Other Work": 79,
     "Video": 52,
     "Food": 46,
-    "General Utilities": 45,
     "Search": 45,
+    "General Utilities": 45,
     "Legal & Gov't": 27,
     "General Communication & Scheduling": 6,
     "Science & Technology": 4,
@@ -108,9 +108,9 @@
     "General Other Work": 34,
     "Instant Message": 30,
     "General Communication & Scheduling": 3,
-    "Food": 1,
     "Science & Technology": 1,
-    "General Shopping": 1
+    "General Shopping": 1,
+    "Food": 1
   },
   "2023-01-13": {
     "Editing & IDEs": 7131,
