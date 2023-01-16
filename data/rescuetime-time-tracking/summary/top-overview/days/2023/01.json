@@ -145,8 +145,8 @@
     "Focus Work": 572,
     "Reference & Learning": 537,
     "Personal": 106,
-    "News & Opinion": 1,
-    "Shopping": 1
+    "Shopping": 1,
+    "News & Opinion": 1
   },
   "13": {
     "Software Development": 7997,
@@ -162,7 +162,17 @@
     "Personal": 240
   },
   "14": {},
-  "15": {},
+  "15": {
+    "Shopping": 427,
+    "Uncategorized": 396,
+    "Other Work": 98,
+    "Personal": 47,
+    "Software Development": 35,
+    "Reference & Learning": 20,
+    "Utilities": 18,
+    "Business": 17,
+    "Focus Work": 3
+  },
   "16": {},
   "17": {},
   "18": {},
