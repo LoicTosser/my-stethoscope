@@ -37,7 +37,22 @@
     "News & Opinion": 104,
     "Design & Composition": 10
   },
-  "2023-01-18": {},
+  "2023-01-18": {
+    "Software Development": 8002,
+    "Uncategorized": 4708,
+    "Other Work": 2744,
+    "Design & Composition": 1412,
+    "Communication & Scheduling": 1393,
+    "Entertainment": 1209,
+    "Business": 1080,
+    "Reference & Learning": 1078,
+    "Utilities": 619,
+    "Personal": 409,
+    "Social Networking": 167,
+    "Focus Work": 101,
+    "Shopping": 14,
+    "News & Opinion": 7
+  },
   "2023-01-19": {},
   "2023-01-20": {},
   "2023-01-21": {}
