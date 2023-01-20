@@ -47,13 +47,27 @@
     "Business": 1080,
     "Reference & Learning": 1078,
     "Utilities": 619,
-    "Personal": 409,
+    "Personal": 417,
     "Social Networking": 167,
     "Focus Work": 101,
     "Shopping": 14,
     "News & Opinion": 7
   },
-  "2023-01-19": {},
+  "2023-01-19": {
+    "Software Development": 13722,
+    "Other Work": 2249,
+    "Uncategorized": 1997,
+    "Entertainment": 1583,
+    "Utilities": 923,
+    "Business": 354,
+    "Communication & Scheduling": 315,
+    "Reference & Learning": 284,
+    "Focus Work": 233,
+    "Personal": 196,
+    "Social Networking": 68,
+    "News & Opinion": 51,
+    "Design & Composition": 5
+  },
   "2023-01-20": {},
   "2023-01-21": {}
 }
