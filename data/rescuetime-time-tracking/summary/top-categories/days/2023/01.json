@@ -582,5 +582,36 @@
     "Intelligence": 2,
     "General Software Development": 2
   },
-  "30": {}
+  "30": {
+    "Editing & IDEs": 7220,
+    "Uncategorized": 3666,
+    "Communications": 3814,
+    "General Software Development": 1971,
+    "General Social Networking": 1566,
+    "Email": 873,
+    "General Business": 664,
+    "Meetings": 664,
+    "General Other Work": 655,
+    "General Personal": 514,
+    "Writing": 320,
+    "Search": 224,
+    "Internet Utilities": 205,
+    "Browsers": 172,
+    "Science & Technology": 126,
+    "General News & Opinion": 126,
+    "General Reference & Learning": 119,
+    "Clothes & Personal": 72,
+    "Games": 65,
+    "Systems Operations": 63,
+    "General Shopping": 55,
+    "Calendars": 50,
+    "General Focus Work": 48,
+    "Graphic Design": 45,
+    "General Entertainment": 20,
+    "Sales": 18,
+    "General Utilities": 9,
+    "Intelligence": 8,
+    "Instant Message": 5,
+    "General Communication & Scheduling": 2
+  }
 }
