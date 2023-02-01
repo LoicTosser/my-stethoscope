@@ -28,5 +28,23 @@
     "Shopping": 127,
     "Entertainment": 85,
     "Focus Work": 48
-  }
+  },
+  "2023-01-31": {
+    "Software Development": 6226,
+    "Other Work": 1271,
+    "Uncategorized": 906,
+    "Utilities": 885,
+    "Communication & Scheduling": 710,
+    "Reference & Learning": 334,
+    "Personal": 295,
+    "Business": 253,
+    "Focus Work": 99,
+    "Design & Composition": 61,
+    "Entertainment": 31,
+    "Social Networking": 15
+  },
+  "2023-02-1": {},
+  "2023-02-2": {},
+  "2023-02-3": {},
+  "2023-02-4": {}
 }
