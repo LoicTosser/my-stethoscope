@@ -43,7 +43,21 @@
     "Entertainment": 31,
     "Social Networking": 15
   },
-  "2023-02-1": {},
+  "2023-02-1": {
+    "Software Development": 8831,
+    "Other Work": 4294,
+    "Communication & Scheduling": 3650,
+    "Uncategorized": 2670,
+    "Social Networking": 2119,
+    "Personal": 1135,
+    "Utilities": 1068,
+    "Business": 987,
+    "Reference & Learning": 940,
+    "News & Opinion": 798,
+    "Focus Work": 250,
+    "Design & Composition": 147,
+    "Entertainment": 113
+  },
   "2023-02-2": {},
   "2023-02-3": {},
   "2023-02-4": {}
