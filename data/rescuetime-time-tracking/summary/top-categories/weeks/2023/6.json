@@ -55,8 +55,35 @@
     "Writing": 1,
     "Presentation": 1
   },
-  "2023-02-8": {},
-  "2023-02-9": {},
+  "2023-02-8": {
+    "Editing & IDEs": 10948,
+    "Video": 5658,
+    "Meetings": 4765,
+    "Uncategorized": 2519,
+    "Communications": 2212,
+    "General Software Development": 886,
+    "General Social Networking": 537,
+    "General Focus Work": 270,
+    "Email": 251,
+    "General Other Work": 205,
+    "General Personal": 193,
+    "Calendars": 186,
+    "Instant Message": 158,
+    "Browsers": 144,
+    "Internet Utilities": 132,
+    "Search": 69,
+    "Intelligence": 33,
+    "General Business": 27,
+    "General Utilities": 7,
+    "Systems Operations": 5,
+    "General Communication & Scheduling": 4
+  },
+  "2023-02-9": {
+    "Video": 2437,
+    "Communications": 42,
+    "Uncategorized": 3,
+    "Email": 2
+  },
   "2023-02-10": {},
   "2023-02-11": {}
 }
