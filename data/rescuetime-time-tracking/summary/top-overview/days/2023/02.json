@@ -86,11 +86,18 @@
     "Business": 60
   },
   "9": {
-    "Entertainment": 2437,
-    "Other Work": 39,
-    "Uncategorized": 3,
-    "Personal": 3,
-    "Communication & Scheduling": 2
+    "Software Development": 15638,
+    "Other Work": 2951,
+    "Entertainment": 2440,
+    "Uncategorized": 1620,
+    "Business": 719,
+    "News & Opinion": 371,
+    "Communication & Scheduling": 301,
+    "Utilities": 229,
+    "Reference & Learning": 187,
+    "Personal": 150,
+    "Focus Work": 112,
+    "Design & Composition": 67
   },
   "10": {},
   "11": {},
