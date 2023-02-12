@@ -99,8 +99,8 @@
     "Customer Relations": 34,
     "Intelligence": 33,
     "Engineering & Technology": 12,
-    "General Communication & Scheduling": 3,
     "Photos": 3,
+    "General Communication & Scheduling": 3,
     "Travel & Outdoors": 1
   },
   "2023-02-10": {
@@ -127,5 +127,18 @@
     "Systems Operations": 5,
     "General Communication & Scheduling": 5
   },
-  "2023-02-11": {}
+  "2023-02-11": {
+    "Uncategorized": 6932,
+    "Travel & Outdoors": 739,
+    "General Software Development": 99,
+    "Search": 70,
+    "Browsers": 49,
+    "Clothes & Personal": 33,
+    "Communications": 35,
+    "Email": 27,
+    "General Focus Work": 25,
+    "Instant Message": 18,
+    "General Utilities": 7,
+    "Internet Utilities": 1
+  }
 }

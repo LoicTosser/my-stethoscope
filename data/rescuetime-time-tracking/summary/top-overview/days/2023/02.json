@@ -112,7 +112,17 @@
     "Focus Work": 306,
     "News & Opinion": 6
   },
-  "11": {},
+  "11": {
+    "Uncategorized": 6932,
+    "Reference & Learning": 809,
+    "Software Development": 99,
+    "Utilities": 57,
+    "Communication & Scheduling": 45,
+    "Shopping": 33,
+    "Personal": 30,
+    "Focus Work": 25,
+    "Other Work": 5
+  },
   "12": {},
   "13": {},
   "14": {},

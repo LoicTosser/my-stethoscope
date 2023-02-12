@@ -1,1 +1,80 @@
-[]
+[
+  {
+    "Rank": 1,
+    "Time Spent (seconds)": 6932,
+    "Number of People": 1,
+    "Category": "Uncategorized"
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 739,
+    "Number of People": 1,
+    "Category": "Travel & Outdoors"
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 99,
+    "Number of People": 1,
+    "Category": "General Software Development"
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 70,
+    "Number of People": 1,
+    "Category": "Search"
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 49,
+    "Number of People": 1,
+    "Category": "Browsers"
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 33,
+    "Number of People": 1,
+    "Category": "Clothes & Personal"
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 30,
+    "Number of People": 1,
+    "Category": "Communications"
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 27,
+    "Number of People": 1,
+    "Category": "Email"
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 25,
+    "Number of People": 1,
+    "Category": "General Focus Work"
+  },
+  {
+    "Rank": 10,
+    "Time Spent (seconds)": 18,
+    "Number of People": 1,
+    "Category": "Instant Message"
+  },
+  {
+    "Rank": 11,
+    "Time Spent (seconds)": 7,
+    "Number of People": 1,
+    "Category": "General Utilities"
+  },
+  {
+    "Rank": 12,
+    "Time Spent (seconds)": 5,
+    "Number of People": 1,
+    "Category": "Communications"
+  },
+  {
+    "Rank": 13,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Category": "Internet Utilities"
+  }
+]
