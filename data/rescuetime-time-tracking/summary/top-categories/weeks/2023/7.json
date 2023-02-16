@@ -24,8 +24,8 @@
     "Engineering & Technology": 7,
     "Systems Operations": 7,
     "General Shopping": 4,
-    "General Communication & Scheduling": 2,
-    "Instant Message": 2
+    "Instant Message": 2,
+    "General Communication & Scheduling": 2
   },
   "2023-02-14": {
     "Communications": 2280,
@@ -52,7 +52,34 @@
     "Presentation": 23,
     "General Communication & Scheduling": 1
   },
-  "2023-02-15": {},
+  "2023-02-15": {
+    "Editing & IDEs": 4651,
+    "Communications": 4007,
+    "General Software Development": 2392,
+    "General Social Networking": 1231,
+    "General Business": 1016,
+    "Uncategorized": 916,
+    "Systems Operations": 898,
+    "Meetings": 578,
+    "Search": 501,
+    "General Focus Work": 499,
+    "Calendars": 474,
+    "Email": 453,
+    "General Shopping": 351,
+    "General Reference & Learning": 289,
+    "Writing": 241,
+    "Engineering & Technology": 225,
+    "Browsers": 210,
+    "Internet Utilities": 193,
+    "General Personal": 161,
+    "General Other Work": 144,
+    "General Utilities": 88,
+    "Clothes & Personal": 76,
+    "General News & Opinion": 45,
+    "General Entertainment": 39,
+    "Video": 35,
+    "Presentation": 2
+  },
   "2023-02-16": {},
   "2023-02-17": {},
   "2023-02-18": {}

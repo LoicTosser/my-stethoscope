@@ -32,7 +32,22 @@
     "News & Opinion": 94,
     "Focus Work": 35
   },
-  "2023-02-15": {},
+  "2023-02-15": {
+    "Software Development": 7941,
+    "Other Work": 3981,
+    "Communication & Scheduling": 1505,
+    "Social Networking": 1231,
+    "Business": 1016,
+    "Reference & Learning": 1015,
+    "Uncategorized": 916,
+    "Focus Work": 499,
+    "Utilities": 491,
+    "Shopping": 427,
+    "Personal": 331,
+    "Design & Composition": 243,
+    "Entertainment": 74,
+    "News & Opinion": 45
+  },
   "2023-02-16": {},
   "2023-02-17": {},
   "2023-02-18": {}
