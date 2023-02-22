@@ -25,7 +25,22 @@
     "News & Opinion": 14,
     "Shopping": 1
   },
-  "2023-02-21": {},
+  "2023-02-21": {
+    "Communication & Scheduling": 5210,
+    "Uncategorized": 4509,
+    "Other Work": 1683,
+    "Reference & Learning": 1561,
+    "Business": 1159,
+    "Shopping": 1129,
+    "Social Networking": 856,
+    "Design & Composition": 665,
+    "Software Development": 606,
+    "Personal": 469,
+    "Focus Work": 397,
+    "Utilities": 286,
+    "Entertainment": 231,
+    "News & Opinion": 72
+  },
   "2023-02-22": {},
   "2023-02-23": {},
   "2023-02-24": {},
