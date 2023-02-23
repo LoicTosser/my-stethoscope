@@ -41,7 +41,22 @@
     "Entertainment": 231,
     "News & Opinion": 72
   },
-  "2023-02-22": {},
+  "2023-02-22": {
+    "Design & Composition": 7771,
+    "Software Development": 7257,
+    "Other Work": 1987,
+    "Social Networking": 1853,
+    "Communication & Scheduling": 1676,
+    "Personal": 1156,
+    "Business": 820,
+    "Uncategorized": 698,
+    "Utilities": 400,
+    "Reference & Learning": 358,
+    "Entertainment": 106,
+    "Focus Work": 97,
+    "Shopping": 66,
+    "News & Opinion": 53
+  },
   "2023-02-23": {},
   "2023-02-24": {},
   "2023-02-25": {}
