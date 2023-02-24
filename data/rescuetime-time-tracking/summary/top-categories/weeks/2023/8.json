@@ -72,9 +72,9 @@
     "General Design & Composition": 40,
     "Engineering & Technology": 23,
     "General Communication & Scheduling": 8,
+    "Editing & IDEs": 1,
     "Employment": 1,
-    "General Utilities": 1,
-    "Editing & IDEs": 1
+    "General Utilities": 1
   },
   "2023-02-22": {
     "Writing": 7771,
@@ -103,7 +103,36 @@
     "Legal & Gov't": 8,
     "General Communication & Scheduling": 6
   },
-  "2023-02-23": {},
+  "2023-02-23": {
+    "Editing & IDEs": 4285,
+    "General Software Development": 2959,
+    "Communications": 3247,
+    "Uncategorized": 2445,
+    "Email": 770,
+    "Meetings": 762,
+    "Travel & Outdoors": 683,
+    "General Personal": 574,
+    "General Business": 539,
+    "Administration": 428,
+    "General Social Networking": 346,
+    "Calendars": 310,
+    "Search": 257,
+    "Browsers": 249,
+    "General News & Opinion": 203,
+    "General Focus Work": 132,
+    "Internet Utilities": 108,
+    "General Other Work": 92,
+    "Legal & Gov't": 75,
+    "Music": 59,
+    "Engineering & Technology": 45,
+    "Science & Technology": 33,
+    "General Utilities": 30,
+    "General Entertainment": 22,
+    "General Reference & Learning": 15,
+    "Intelligence": 9,
+    "General Shopping": 5,
+    "General Communication & Scheduling": 3
+  },
   "2023-02-24": {},
   "2023-02-25": {}
 }
