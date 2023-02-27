@@ -279,12 +279,12 @@
   },
   "24": {
     "Software Development": 4217,
-    "Other Work": 2876,
-    "Uncategorized": 1988,
+    "Other Work": 2941,
+    "Uncategorized": 2027,
     "Entertainment": 1846,
-    "Communication & Scheduling": 1627,
-    "Utilities": 1179,
-    "Personal": 1078,
+    "Communication & Scheduling": 1635,
+    "Utilities": 1180,
+    "Personal": 1115,
     "Design & Composition": 817,
     "Shopping": 766,
     "Social Networking": 726,
@@ -294,6 +294,18 @@
     "Focus Work": 26
   },
   "25": {},
-  "26": {},
+  "26": {
+    "Personal": 229,
+    "Uncategorized": 110,
+    "Communication & Scheduling": 94,
+    "Utilities": 38,
+    "Business": 23,
+    "Entertainment": 21,
+    "Software Development": 20,
+    "Reference & Learning": 14,
+    "Shopping": 14,
+    "Other Work": 13,
+    "Focus Work": 10
+  },
   "27": {}
 }
