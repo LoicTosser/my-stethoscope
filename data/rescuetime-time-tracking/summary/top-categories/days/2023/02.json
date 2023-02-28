@@ -534,8 +534,34 @@
     "General Other Work": 13,
     "General Reference & Learning": 11,
     "General Focus Work": 10,
-    "Internet Utilities": 3,
-    "Search": 3
+    "Search": 3,
+    "Internet Utilities": 3
   },
-  "27": {}
+  "27": {
+    "Editing & IDEs": 3536,
+    "Uncategorized": 3024,
+    "Meetings": 2917,
+    "Communications": 2961,
+    "Presentation": 2546,
+    "General Software Development": 2211,
+    "General Social Networking": 1479,
+    "General Business": 1208,
+    "Email": 735,
+    "Systems Operations": 589,
+    "General Personal": 399,
+    "Calendars": 292,
+    "Engineering & Technology": 213,
+    "General Reference & Learning": 212,
+    "Search": 125,
+    "Video": 119,
+    "General Focus Work": 112,
+    "Browsers": 112,
+    "Internet Utilities": 84,
+    "General Utilities": 44,
+    "General Other Work": 43,
+    "Music": 30,
+    "General Communication & Scheduling": 18,
+    "Instant Message": 17,
+    "Intelligence": 2
+  }
 }
