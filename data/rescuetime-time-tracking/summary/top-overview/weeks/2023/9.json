@@ -7,8 +7,8 @@
     "Business": 23,
     "Entertainment": 21,
     "Software Development": 20,
-    "Reference & Learning": 14,
     "Shopping": 14,
+    "Reference & Learning": 14,
     "Other Work": 13,
     "Focus Work": 10
   },
@@ -25,5 +25,24 @@
     "Utilities": 240,
     "Entertainment": 149,
     "Focus Work": 112
-  }
+  },
+  "2023-02-28": {
+    "Software Development": 12171,
+    "Uncategorized": 4250,
+    "Shopping": 2088,
+    "Design & Composition": 1975,
+    "Other Work": 1922,
+    "Communication & Scheduling": 1663,
+    "Reference & Learning": 1243,
+    "Utilities": 474,
+    "Personal": 355,
+    "Social Networking": 306,
+    "Business": 254,
+    "Focus Work": 174,
+    "News & Opinion": 5
+  },
+  "2023-03-1": {},
+  "2023-03-2": {},
+  "2023-03-3": {},
+  "2023-03-4": {}
 }

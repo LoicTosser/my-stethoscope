@@ -11,8 +11,8 @@
     "General Other Work": 13,
     "General Reference & Learning": 11,
     "General Focus Work": 10,
-    "Search": 3,
-    "Internet Utilities": 3
+    "Internet Utilities": 3,
+    "Search": 3
   },
   "2023-02-27": {
     "Editing & IDEs": 3536,
@@ -40,5 +40,34 @@
     "General Communication & Scheduling": 18,
     "Instant Message": 17,
     "Intelligence": 2
-  }
+  },
+  "2023-02-28": {
+    "Editing & IDEs": 6705,
+    "Uncategorized": 4250,
+    "Systems Operations": 2766,
+    "General Software Development": 2700,
+    "Clothes & Personal": 2088,
+    "Presentation": 1966,
+    "Communications": 2066,
+    "General Reference & Learning": 811,
+    "Meetings": 727,
+    "Calendars": 510,
+    "Email": 424,
+    "Browsers": 414,
+    "Food": 386,
+    "General Social Networking": 306,
+    "General Business": 254,
+    "General Focus Work": 174,
+    "General Personal": 166,
+    "Internet Utilities": 60,
+    "Search": 46,
+    "General Other Work": 45,
+    "Writing": 9,
+    "General News & Opinion": 5,
+    "General Communication & Scheduling": 2
+  },
+  "2023-03-1": {},
+  "2023-03-2": {},
+  "2023-03-3": {},
+  "2023-03-4": {}
 }
