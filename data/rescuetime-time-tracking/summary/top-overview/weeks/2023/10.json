@@ -30,7 +30,22 @@
     "Focus Work": 56,
     "News & Opinion": 45
   },
-  "2023-03-8": {},
+  "2023-03-8": {
+    "Software Development": 10048,
+    "Communication & Scheduling": 4476,
+    "Other Work": 2779,
+    "Business": 1976,
+    "Reference & Learning": 1625,
+    "Social Networking": 1579,
+    "Personal": 1337,
+    "Uncategorized": 871,
+    "Utilities": 420,
+    "Focus Work": 281,
+    "News & Opinion": 132,
+    "Design & Composition": 111,
+    "Entertainment": 102,
+    "Shopping": 8
+  },
   "2023-03-9": {},
   "2023-03-10": {},
   "2023-03-11": {}
