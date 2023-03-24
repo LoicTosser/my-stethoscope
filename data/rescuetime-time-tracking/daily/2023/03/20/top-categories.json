@@ -55,33 +55,33 @@
   },
   {
     "Rank": 10,
+    "Time Spent (seconds)": 477,
+    "Number of People": 1,
+    "Category": "General Other Work"
+  },
+  {
+    "Rank": 11,
     "Time Spent (seconds)": 421,
     "Number of People": 1,
     "Category": "Browsers"
   },
   {
-    "Rank": 11,
+    "Rank": 12,
     "Time Spent (seconds)": 397,
     "Number of People": 1,
     "Category": "Search"
   },
   {
-    "Rank": 12,
+    "Rank": 13,
     "Time Spent (seconds)": 297,
     "Number of People": 1,
     "Category": "Travel & Outdoors"
   },
   {
-    "Rank": 13,
+    "Rank": 14,
     "Time Spent (seconds)": 256,
     "Number of People": 1,
     "Category": "Email"
-  },
-  {
-    "Rank": 14,
-    "Time Spent (seconds)": 250,
-    "Number of People": 1,
-    "Category": "General Entertainment"
   },
   {
     "Rank": 15,
@@ -91,54 +91,48 @@
   },
   {
     "Rank": 16,
-    "Time Spent (seconds)": 227,
-    "Number of People": 1,
-    "Category": "General Other Work"
-  },
-  {
-    "Rank": 17,
     "Time Spent (seconds)": 153,
     "Number of People": 1,
     "Category": "General Focus Work"
   },
   {
-    "Rank": 18,
+    "Rank": 17,
     "Time Spent (seconds)": 99,
     "Number of People": 1,
     "Category": "General News & Opinion"
   },
   {
-    "Rank": 19,
+    "Rank": 18,
     "Time Spent (seconds)": 65,
     "Number of People": 1,
     "Category": "Internet Utilities"
   },
   {
-    "Rank": 20,
+    "Rank": 19,
     "Time Spent (seconds)": 41,
     "Number of People": 1,
     "Category": "General Personal"
   },
   {
-    "Rank": 21,
+    "Rank": 20,
     "Time Spent (seconds)": 38,
     "Number of People": 1,
     "Category": "Intelligence"
   },
   {
-    "Rank": 22,
+    "Rank": 21,
     "Time Spent (seconds)": 30,
     "Number of People": 1,
     "Category": "General Reference & Learning"
   },
   {
-    "Rank": 23,
+    "Rank": 22,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
     "Category": "Instant Message"
   },
   {
-    "Rank": 24,
+    "Rank": 23,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
     "Category": "General Communication & Scheduling"
