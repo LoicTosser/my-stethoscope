@@ -295,7 +295,21 @@
     "Software Development": 7,
     "Communication & Scheduling": 3
   },
-  "28": {},
+  "28": {
+    "Software Development": 7358,
+    "Other Work": 4626,
+    "Uncategorized": 3937,
+    "Communication & Scheduling": 1539,
+    "Personal": 1078,
+    "Reference & Learning": 989,
+    "Social Networking": 646,
+    "Utilities": 544,
+    "Business": 542,
+    "News & Opinion": 242,
+    "Focus Work": 129,
+    "Shopping": 59,
+    "Design & Composition": 15
+  },
   "29": {},
   "30": {}
 }
