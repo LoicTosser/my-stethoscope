@@ -580,5 +580,30 @@
     "Employment": 10,
     "General Utilities": 3
   },
-  "30": {}
+  "30": {
+    "Editing & IDEs": 10582,
+    "Communications": 3021,
+    "Meetings": 2391,
+    "General Software Development": 1492,
+    "Uncategorized": 1272,
+    "General Business": 967,
+    "Email": 883,
+    "General Social Networking": 700,
+    "General Other Work": 678,
+    "Search": 315,
+    "Science & Technology": 275,
+    "General Personal": 269,
+    "General Focus Work": 267,
+    "Browsers": 199,
+    "General News & Opinion": 171,
+    "Internet Utilities": 169,
+    "General Reference & Learning": 73,
+    "Calendars": 70,
+    "Systems Operations": 29,
+    "Engineering & Technology": 13,
+    "General Utilities": 7,
+    "Video": 7,
+    "Intelligence": 5,
+    "General Communication & Scheduling": 2
+  }
 }
