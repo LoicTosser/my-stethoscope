@@ -71,7 +71,28 @@
     "Intelligence": 8,
     "General Communication & Scheduling": 3
   },
-  "2023-04-6": {},
+  "2023-04-6": {
+    "Editing & IDEs": 6019,
+    "Communications": 3411,
+    "General Software Development": 2461,
+    "Uncategorized": 2114,
+    "Writing": 1796,
+    "General Business": 1331,
+    "Email": 767,
+    "General Focus Work": 241,
+    "Search": 157,
+    "Internet Utilities": 124,
+    "Browsers": 96,
+    "General Other Work": 73,
+    "General News & Opinion": 50,
+    "Music": 33,
+    "Calendars": 30,
+    "General Utilities": 23,
+    "General Social Networking": 17,
+    "General Communication & Scheduling": 12,
+    "Engineering & Technology": 12,
+    "General Entertainment": 10
+  },
   "2023-04-7": {},
   "2023-04-8": {}
 }
