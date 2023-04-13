@@ -88,7 +88,19 @@
     "Shopping": 61,
     "News & Opinion": 13
   },
-  "12": {},
+  "12": {
+    "Software Development": 8752,
+    "Reference & Learning": 5434,
+    "Other Work": 3253,
+    "Communication & Scheduling": 2878,
+    "Business": 1009,
+    "Uncategorized": 563,
+    "Personal": 319,
+    "Utilities": 261,
+    "Design & Composition": 182,
+    "Focus Work": 97,
+    "Entertainment": 79
+  },
   "13": {},
   "14": {},
   "15": {},
