@@ -99,8 +99,8 @@
     "General Focus Work": 246,
     "General News & Opinion": 240,
     "Calendars": 227,
-    "Browsers": 143,
     "Legal & Gov't": 143,
+    "Browsers": 143,
     "General Personal": 131,
     "Search": 92,
     "General Reference & Learning": 87,
@@ -110,10 +110,10 @@
     "Internet Utilities": 49,
     "General Other Work": 44,
     "General Shopping": 14,
-    "Music": 12,
     "Graphic Design": 12,
-    "Intelligence": 3,
-    "Health & Medicine": 3
+    "Music": 12,
+    "Health & Medicine": 3,
+    "Intelligence": 3
   },
   "2023-04-15": {}
 }
