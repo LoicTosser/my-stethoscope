@@ -17,8 +17,8 @@
   "2023-04-18": {
     "Software Development": 5440,
     "Communication & Scheduling": 4943,
-    "Other Work": 3579,
-    "Uncategorized": 2620,
+    "Other Work": 3641,
+    "Uncategorized": 2649,
     "Personal": 2008,
     "Shopping": 1474,
     "Focus Work": 996,
@@ -29,7 +29,20 @@
     "Design & Composition": 229,
     "News & Opinion": 14
   },
-  "2023-04-19": {},
+  "2023-04-19": {
+    "Software Development": 7990,
+    "Communication & Scheduling": 4412,
+    "Other Work": 3459,
+    "Uncategorized": 2684,
+    "Personal": 2203,
+    "Business": 1117,
+    "Focus Work": 501,
+    "Utilities": 409,
+    "Social Networking": 167,
+    "Design & Composition": 72,
+    "News & Opinion": 57,
+    "Reference & Learning": 46
+  },
   "2023-04-20": {},
   "2023-04-21": {},
   "2023-04-22": {}
