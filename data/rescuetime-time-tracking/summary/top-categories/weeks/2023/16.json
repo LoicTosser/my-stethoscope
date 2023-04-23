@@ -52,16 +52,16 @@
     "General Communication & Scheduling": 4
   },
   "2023-04-19": {
-    "Editing & IDEs": 4505,
-    "Communications": 5449,
+    "Editing & IDEs": 4518,
+    "Communications": 5458,
     "Meetings": 2984,
     "Uncategorized": 2684,
-    "General Software Development": 2436,
-    "Email": 1283,
+    "General Software Development": 2439,
+    "Email": 1306,
     "General Business": 1070,
     "Systems Operations": 1049,
-    "General Focus Work": 501,
-    "Browsers": 232,
+    "General Focus Work": 509,
+    "Browsers": 236,
     "Internet Utilities": 177,
     "General Social Networking": 167,
     "Calendars": 142,
@@ -77,5 +77,14 @@
   },
   "2023-04-20": {},
   "2023-04-21": {},
-  "2023-04-22": {}
+  "2023-04-22": {
+    "Video": 6746,
+    "Communications": 19,
+    "Uncategorized": 14,
+    "Browsers": 14,
+    "General Focus Work": 6,
+    "Search": 4,
+    "Intelligence": 3,
+    "General Software Development": 2
+  }
 }

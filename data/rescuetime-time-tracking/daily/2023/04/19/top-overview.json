@@ -1,13 +1,13 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 7990,
+    "Time Spent (seconds)": 8006,
     "Number of People": 1,
     "Category": "Software Development"
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 4412,
+    "Time Spent (seconds)": 4435,
     "Number of People": 1,
     "Category": "Communication & Scheduling"
   },
@@ -25,7 +25,7 @@
   },
   {
     "Rank": 5,
-    "Time Spent (seconds)": 2203,
+    "Time Spent (seconds)": 2212,
     "Number of People": 1,
     "Category": "Personal"
   },
@@ -37,13 +37,13 @@
   },
   {
     "Rank": 7,
-    "Time Spent (seconds)": 501,
+    "Time Spent (seconds)": 509,
     "Number of People": 1,
     "Category": "Focus Work"
   },
   {
     "Rank": 8,
-    "Time Spent (seconds)": 409,
+    "Time Spent (seconds)": 413,
     "Number of People": 1,
     "Category": "Utilities"
   },

@@ -30,14 +30,14 @@
     "News & Opinion": 14
   },
   "2023-04-19": {
-    "Software Development": 7990,
-    "Communication & Scheduling": 4412,
+    "Software Development": 8006,
+    "Communication & Scheduling": 4435,
     "Other Work": 3459,
     "Uncategorized": 2684,
-    "Personal": 2203,
+    "Personal": 2212,
     "Business": 1117,
-    "Focus Work": 501,
-    "Utilities": 409,
+    "Focus Work": 509,
+    "Utilities": 413,
     "Social Networking": 167,
     "Design & Composition": 72,
     "News & Opinion": 57,
@@ -45,5 +45,15 @@
   },
   "2023-04-20": {},
   "2023-04-21": {},
-  "2023-04-22": {}
+  "2023-04-22": {
+    "Entertainment": 6746,
+    "Other Work": 15,
+    "Uncategorized": 14,
+    "Utilities": 14,
+    "Focus Work": 6,
+    "Personal": 4,
+    "Reference & Learning": 4,
+    "Business": 3,
+    "Software Development": 2
+  }
 }
