@@ -186,15 +186,28 @@
     "Uncategorized": 14,
     "Utilities": 14,
     "Focus Work": 6,
-    "Reference & Learning": 4,
     "Personal": 4,
+    "Reference & Learning": 4,
     "Business": 3,
     "Software Development": 2
   },
   "23": {
     "Entertainment": 3017
   },
-  "24": {},
+  "24": {
+    "Uncategorized": 12514,
+    "Software Development": 4990,
+    "Communication & Scheduling": 2540,
+    "Other Work": 2516,
+    "Personal": 1926,
+    "Business": 1449,
+    "Social Networking": 653,
+    "Utilities": 408,
+    "Focus Work": 330,
+    "Reference & Learning": 147,
+    "News & Opinion": 106,
+    "Entertainment": 6
+  },
   "25": {},
   "26": {},
   "27": {},
