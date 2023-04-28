@@ -235,7 +235,21 @@
     "News & Opinion": 214,
     "Shopping": 102
   },
-  "27": {},
+  "27": {
+    "Software Development": 15684,
+    "Business": 10377,
+    "Other Work": 2824,
+    "Uncategorized": 1722,
+    "Design & Composition": 1314,
+    "Communication & Scheduling": 1049,
+    "Personal": 805,
+    "Reference & Learning": 760,
+    "Social Networking": 621,
+    "Utilities": 402,
+    "Focus Work": 323,
+    "Entertainment": 83,
+    "News & Opinion": 49
+  },
   "28": {},
   "29": {}
 }
