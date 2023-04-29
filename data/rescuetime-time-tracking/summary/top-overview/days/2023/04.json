@@ -250,6 +250,21 @@
     "Entertainment": 83,
     "News & Opinion": 49
   },
-  "28": {},
+  "28": {
+    "Software Development": 13201,
+    "Business": 5099,
+    "Communication & Scheduling": 3822,
+    "Other Work": 3703,
+    "Entertainment": 2210,
+    "Uncategorized": 1419,
+    "Utilities": 883,
+    "Personal": 603,
+    "Social Networking": 539,
+    "Focus Work": 488,
+    "News & Opinion": 299,
+    "Reference & Learning": 292,
+    "Design & Composition": 163,
+    "Shopping": 7
+  },
   "29": {}
 }
