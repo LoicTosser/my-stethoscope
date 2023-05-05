@@ -31,7 +31,20 @@
     "Focus Work": 68,
     "News & Opinion": 23
   },
-  "2023-05-4": {},
+  "2023-05-4": {
+    "Business": 15181,
+    "Utilities": 8622,
+    "Software Development": 4423,
+    "Uncategorized": 2462,
+    "Other Work": 1849,
+    "Communication & Scheduling": 1017,
+    "Reference & Learning": 601,
+    "News & Opinion": 564,
+    "Personal": 246,
+    "Entertainment": 157,
+    "Design & Composition": 116,
+    "Focus Work": 44
+  },
   "2023-05-5": {},
   "2023-05-6": {}
 }
