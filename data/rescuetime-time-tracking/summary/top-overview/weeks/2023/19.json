@@ -29,7 +29,19 @@
     "Shopping": 30,
     "Entertainment": 1
   },
-  "2023-05-10": {},
+  "2023-05-10": {
+    "Software Development": 13127,
+    "Other Work": 3312,
+    "Utilities": 2358,
+    "Uncategorized": 1944,
+    "Business": 1215,
+    "Communication & Scheduling": 470,
+    "Reference & Learning": 190,
+    "Design & Composition": 153,
+    "Focus Work": 134,
+    "Personal": 45,
+    "Entertainment": 18
+  },
   "2023-05-11": {},
   "2023-05-12": {},
   "2023-05-13": {}
