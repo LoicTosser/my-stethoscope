@@ -40,9 +40,9 @@
     "General Communication & Scheduling": 7,
     "Engineering & Technology": 3,
     "General Utilities": 3,
+    "Instant Message": 1,
     "Accounting": 1,
-    "Video": 1,
-    "Instant Message": 1
+    "Video": 1
   },
   "2023-05-10": {
     "Editing & IDEs": 12272,
@@ -61,14 +61,34 @@
     "Engineering & Technology": 77,
     "Search": 27,
     "Calendars": 25,
-    "General Other Work": 18,
     "General Entertainment": 18,
+    "General Other Work": 18,
     "Presentation": 12,
     "Intelligence": 8,
     "General Utilities": 3,
     "Instant Message": 1
   },
-  "2023-05-11": {},
+  "2023-05-11": {
+    "Editing & IDEs": 15266,
+    "Communications": 2605,
+    "General Software Development": 2272,
+    "Internet Utilities": 955,
+    "Uncategorized": 853,
+    "Meetings": 380,
+    "General Focus Work": 168,
+    "Systems Operations": 141,
+    "General Business": 139,
+    "General News & Opinion": 115,
+    "Browsers": 108,
+    "General Reference & Learning": 59,
+    "Email": 55,
+    "Search": 32,
+    "Intelligence": 24,
+    "General Other Work": 20,
+    "Calendars": 19,
+    "Engineering & Technology": 7,
+    "General Communication & Scheduling": 2
+  },
   "2023-05-12": {},
   "2023-05-13": {}
 }
