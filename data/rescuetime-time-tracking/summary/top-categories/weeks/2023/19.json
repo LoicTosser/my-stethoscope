@@ -61,8 +61,8 @@
     "Engineering & Technology": 77,
     "Search": 27,
     "Calendars": 25,
-    "General Entertainment": 18,
     "General Other Work": 18,
+    "General Entertainment": 18,
     "Presentation": 12,
     "Intelligence": 8,
     "General Utilities": 3,
@@ -89,6 +89,27 @@
     "Engineering & Technology": 7,
     "General Communication & Scheduling": 2
   },
-  "2023-05-12": {},
+  "2023-05-12": {
+    "Editing & IDEs": 13957,
+    "Communications": 1546,
+    "General Software Development": 1387,
+    "Internet Utilities": 1126,
+    "Uncategorized": 355,
+    "Email": 234,
+    "Writing": 227,
+    "General Business": 218,
+    "General Focus Work": 94,
+    "Browsers": 77,
+    "General News & Opinion": 74,
+    "General Personal": 59,
+    "Meetings": 48,
+    "General Shopping": 46,
+    "Search": 39,
+    "General Other Work": 25,
+    "Engineering & Technology": 25,
+    "Calendars": 15,
+    "Systems Operations": 9,
+    "General Utilities": 1
+  },
   "2023-05-13": {}
 }
