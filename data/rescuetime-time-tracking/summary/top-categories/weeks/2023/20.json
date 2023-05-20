@@ -65,11 +65,11 @@
   },
   "2023-05-17": {
     "Editing & IDEs": 9077,
+    "Accounting": 2048,
     "General Software Development": 2045,
-    "Accounting": 2000,
     "Uncategorized": 1861,
-    "Communications": 1254,
-    "Email": 598,
+    "Communications": 1256,
+    "Email": 656,
     "General Business": 229,
     "Internet Utilities": 226,
     "Browsers": 109,
@@ -83,10 +83,19 @@
     "Food": 8,
     "General Communication & Scheduling": 2,
     "Project Management": 2,
-    "Calendars": 1,
-    "General Social Networking": 1
+    "General Social Networking": 1,
+    "Calendars": 1
   },
   "2023-05-18": {},
-  "2023-05-19": {},
+  "2023-05-19": {
+    "Writing": 2425,
+    "Uncategorized": 23,
+    "Communications": 31,
+    "Editing & IDEs": 19,
+    "General Business": 6,
+    "File Sharing": 5,
+    "General Utilities": 5,
+    "General Software Development": 4
+  },
   "2023-05-20": {}
 }

@@ -45,11 +45,11 @@
     "Graphic Design": 19
   },
   "2023": {
-    "Uncategorized": 263594,
-    "Communications": 278574,
-    "Email": 53328,
-    "Writing": 48244,
-    "General Business": 115148,
+    "Uncategorized": 263617,
+    "Communications": 278607,
+    "Email": 53386,
+    "Writing": 50669,
+    "General Business": 115154,
     "Meetings": 134456,
     "Calendars": 21548,
     "General Other Work": 16394,
@@ -57,7 +57,7 @@
     "Search": 23934,
     "General Reference & Learning": 11185,
     "Internet Utilities": 57118,
-    "General Software Development": 170808,
+    "General Software Development": 170812,
     "General Entertainment": 3474,
     "Browsers": 19987,
     "Project Management": 4870,
@@ -70,11 +70,11 @@
     "Intelligence": 6032,
     "Regional": 81,
     "Instant Message": 4306,
-    "Editing & IDEs": 608453,
-    "Accounting": 7604,
+    "Editing & IDEs": 608472,
+    "Accounting": 7652,
     "Electronics": 21,
     "General Communication & Scheduling": 1198,
-    "General Utilities": 6303,
+    "General Utilities": 6308,
     "Video": 25960,
     "Clothes & Personal": 7691,
     "Engineering & Drafting": 17,
@@ -99,6 +99,7 @@
     "Business": 23,
     "Marketing": 17,
     "Health & Medicine": 887,
-    "Maps & Regional": 1
+    "Maps & Regional": 1,
+    "File Sharing": 5
   }
 }
