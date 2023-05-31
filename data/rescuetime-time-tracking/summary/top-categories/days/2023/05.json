@@ -330,5 +330,28 @@
     "Project Management": 10,
     "General Software Development": 8
   },
-  "30": {}
+  "30": {
+    "Editing & IDEs": 19838,
+    "General Software Development": 5242,
+    "Communications": 1827,
+    "Meetings": 1735,
+    "General Business": 1551,
+    "Uncategorized": 1444,
+    "General Other Work": 472,
+    "Engineering & Technology": 452,
+    "Email": 400,
+    "General Focus Work": 391,
+    "General Personal": 376,
+    "Calendars": 295,
+    "General Social Networking": 239,
+    "Browsers": 197,
+    "Internet Utilities": 155,
+    "General News & Opinion": 155,
+    "Search": 109,
+    "Systems Operations": 60,
+    "General Reference & Learning": 10,
+    "Intelligence": 4,
+    "General Utilities": 2,
+    "General Communication & Scheduling": 1
+  }
 }
