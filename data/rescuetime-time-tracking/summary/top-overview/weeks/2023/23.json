@@ -16,7 +16,21 @@
     "Entertainment": 99,
     "News & Opinion": 72
   },
-  "2023-06-6": {},
+  "2023-06-6": {
+    "Uncategorized": 9042,
+    "Business": 8102,
+    "Communication & Scheduling": 5487,
+    "Software Development": 3850,
+    "Other Work": 2674,
+    "Personal": 1501,
+    "Social Networking": 1103,
+    "Design & Composition": 855,
+    "Utilities": 643,
+    "Focus Work": 308,
+    "Reference & Learning": 285,
+    "News & Opinion": 33,
+    "Shopping": 1
+  },
   "2023-06-7": {},
   "2023-06-8": {},
   "2023-06-9": {},
