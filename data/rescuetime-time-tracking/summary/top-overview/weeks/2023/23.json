@@ -47,17 +47,30 @@
     "Focus Work": 143
   },
   "2023-06-8": {
-    "Software Development": 1062,
-    "Utilities": 357,
+    "Software Development": 1309,
+    "Utilities": 363,
     "Entertainment": 137,
     "Uncategorized": 86,
     "Communication & Scheduling": 85,
     "Other Work": 48,
-    "Focus Work": 21,
+    "Business": 44,
+    "Focus Work": 36,
     "Design & Composition": 8,
-    "Reference & Learning": 6,
-    "Business": 2
+    "Reference & Learning": 6
   },
-  "2023-06-9": {},
+  "2023-06-9": {
+    "Uncategorized": 2399,
+    "Design & Composition": 1070,
+    "Reference & Learning": 569,
+    "Software Development": 290,
+    "Focus Work": 139,
+    "Utilities": 124,
+    "Entertainment": 115,
+    "Other Work": 75,
+    "Personal": 50,
+    "Communication & Scheduling": 29,
+    "Social Networking": 15,
+    "Business": 4
+  },
   "2023-06-10": {}
 }

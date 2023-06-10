@@ -96,20 +96,39 @@
     "Photos": 2
   },
   "2023-06-8": {
-    "General Software Development": 1062,
+    "General Software Development": 1309,
     "Internet Utilities": 307,
     "Video": 137,
     "Uncategorized": 86,
     "Email": 68,
-    "Browsers": 50,
+    "Browsers": 56,
+    "General Business": 42,
+    "General Focus Work": 36,
     "Communications": 34,
-    "General Focus Work": 21,
     "General Communication & Scheduling": 17,
     "General Other Work": 14,
     "Writing": 8,
     "Search": 6,
     "Intelligence": 2
   },
-  "2023-06-9": {},
+  "2023-06-9": {
+    "Uncategorized": 2399,
+    "Writing": 852,
+    "Engineering & Technology": 424,
+    "General Software Development": 273,
+    "Graphic Design": 218,
+    "Search": 145,
+    "General Focus Work": 139,
+    "Music": 115,
+    "Browsers": 87,
+    "Communications": 125,
+    "Internet Utilities": 37,
+    "Email": 20,
+    "General Social Networking": 15,
+    "Systems Operations": 9,
+    "General Communication & Scheduling": 9,
+    "Editing & IDEs": 8,
+    "Intelligence": 4
+  },
   "2023-06-10": {}
 }
