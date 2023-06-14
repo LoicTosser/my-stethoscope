@@ -126,8 +126,22 @@
     "Personal": 664,
     "News & Opinion": 451
   },
-  "13": {},
-  "14": {},
+  "13": {
+    "Software Development": 6431,
+    "Business": 750,
+    "Other Work": 177,
+    "Design & Composition": 40,
+    "Personal": 35,
+    "Focus Work": 33,
+    "Reference & Learning": 24,
+    "Utilities": 18,
+    "Uncategorized": 2
+  },
+  "14": {
+    "Business": 204,
+    "Utilities": 13,
+    "Reference & Learning": 10
+  },
   "15": {},
   "16": {},
   "17": {},

@@ -25,8 +25,22 @@
     "Personal": 664,
     "News & Opinion": 451
   },
-  "2023-06-13": {},
-  "2023-06-14": {},
+  "2023-06-13": {
+    "Software Development": 6431,
+    "Business": 750,
+    "Other Work": 177,
+    "Design & Composition": 40,
+    "Personal": 35,
+    "Focus Work": 33,
+    "Reference & Learning": 24,
+    "Utilities": 18,
+    "Uncategorized": 2
+  },
+  "2023-06-14": {
+    "Business": 204,
+    "Utilities": 13,
+    "Reference & Learning": 10
+  },
   "2023-06-15": {},
   "2023-06-16": {},
   "2023-06-17": {}

@@ -189,8 +189,8 @@
     "Email": 152,
     "General Social Networking": 115,
     "General Focus Work": 65,
-    "Regional": 61,
     "Communications": 61,
+    "Regional": 61,
     "Engineering & Technology": 51,
     "Search": 40,
     "General Reference & Learning": 36,
@@ -233,8 +233,25 @@
     "Employment": 10,
     "Instant Message": 5
   },
-  "13": {},
-  "14": {},
+  "13": {
+    "Editing & IDEs": 6408,
+    "General Business": 705,
+    "Communications": 177,
+    "Accounting": 45,
+    "Presentation": 40,
+    "General Personal": 35,
+    "General Focus Work": 33,
+    "Search": 24,
+    "General Software Development": 23,
+    "Internet Utilities": 13,
+    "Browsers": 5,
+    "Uncategorized": 2
+  },
+  "14": {
+    "General Business": 204,
+    "Browsers": 13,
+    "Search": 10
+  },
   "15": {},
   "16": {},
   "17": {},
