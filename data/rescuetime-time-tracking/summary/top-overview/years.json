@@ -31,5 +31,13 @@
     "News & Opinion": 15291,
     "Social Networking": 77648
   },
-  "2024": {}
+  "2024": {
+    "Focus Work": 65,
+    "Communication & Scheduling": 31,
+    "Business": 21,
+    "News & Opinion": 19,
+    "Software Development": 18,
+    "Uncategorized": 13,
+    "Utilities": 5
+  }
 }

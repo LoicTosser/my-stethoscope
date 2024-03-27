@@ -102,5 +102,15 @@
     "Maps & Regional": 626,
     "File Sharing": 5
   },
-  "2024": {}
+  "2024": {
+    "General Focus Work": 65,
+    "Instant Message": 31,
+    "General News & Opinion": 19,
+    "General Software Development": 18,
+    "Intelligence": 14,
+    "Uncategorized": 13,
+    "General Business": 7,
+    "Internet Utilities": 3,
+    "General Utilities": 2
+  }
 }
