@@ -1,10 +1,10 @@
 {
   "format": 3,
-  "generatedAt": "2026-11-01T05:26:59.683Z",
+  "generatedAt": "2026-11-02T05:25:47.238Z",
   "generator": {
     "actionVersion": "1.2.11",
     "integrationsVersion": "2.4.5",
-    "sourceSha": "9fb2cd99e47e90ffa19832ac6ad53d38800812df"
+    "sourceSha": "77e7d3f27452372a1d3adf760e3e20ce0bee9528"
   },
   "adapters": [
     {
@@ -49,10 +49,7 @@
     }
   ],
   "v2Files": {
-    "rescuetime-time-tracking/api.json": "e7022ce1b1f2b798e0bbd7b317d5ffba2042512efc222c9e22534195303d9aac",
-    "rescuetime-time-tracking/daily/2026/11/01/top-categories.json": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
-    "rescuetime-time-tracking/daily/2026/11/01/top-overview.json": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
-    "rescuetime-time-tracking/summary/top-categories/days/2026/11.json": "313f899536a8d86d8fa2b71988d538fc6aa39b0cdbfdf877c40c3144d29c7151",
-    "rescuetime-time-tracking/summary/top-overview/days/2026/11.json": "313f899536a8d86d8fa2b71988d538fc6aa39b0cdbfdf877c40c3144d29c7151"
+    "rescuetime-time-tracking/daily/2026/11/02/top-categories.json": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+    "rescuetime-time-tracking/daily/2026/11/02/top-overview.json": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
   }
 }
